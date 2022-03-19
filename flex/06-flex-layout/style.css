@@ -62,10 +62,14 @@ ul{
   gap:10px;
 }
 
+button{
+  padding:10px;
+}
+
 .buttons{
   display:flex;
 justify-content:center;
-gap:5px;
+gap:10px;
 }
 
 
